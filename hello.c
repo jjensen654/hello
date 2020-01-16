@@ -1,7 +1,7 @@
 /* *
-* J.P. Jensen, Kenji Tamane
+* J.P. Jensen
 * 1/16/2020
-* Kenji Tamane
+* Collaborator: Kenji Tamane
 * To print my name, basic hello.c file for GitHub
 */
 
