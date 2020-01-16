@@ -8,6 +8,6 @@
 #include <stdio.h>
 int main(void) {
 	printf("J.P. Jensen\n");
-	printf("Computer Science");
+	printf("Computer Science\n");
 	return 0;
 }
