@@ -1,8 +1,8 @@
 /* *
-* J.P. Jensen
-* 1/16/2020
+* Author: J.P. Jensen
+* Date: 1/16/2020
 * Collaborator: Kenji Tamane
-* To print my name, basic hello.c file for GitHub
+* This program prints my name, basic hello.c file for GitHub
 */
 
 #include <stdio.h>
