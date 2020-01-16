@@ -8,8 +8,8 @@
 #include <stdio.h>
 int main(void) {
 	printf("J.P. Jensen\n");
-	printf("Kenji Tamane\n");
 	printf("Computer Science\n");
+	printf("Kenji Tamane\n");
 	printf("Computer Science\n");
 	return 0;
 }
