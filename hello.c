@@ -6,5 +6,6 @@
 #include <stdio.h>
 int main(void) {
 	printf("J.P. Jensen\n");
+	printf("Computer Science");
 	return 0;
 }
